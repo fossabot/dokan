@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFaraziF%2Fdokan.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFaraziF%2Fdokan?ref=badge_shield)
+
 # Dokan Multivendor Marketplace #
 **Contributors:** [tareq1988](https://profiles.wordpress.org/tareq1988), [wedevs](https://profiles.wordpress.org/wedevs), [sabbir1991](https://profiles.wordpress.org/sabbir1991), [rafsuntaskin](https://profiles.wordpress.org/rafsuntaskin), [sk.shaikat](https://profiles.wordpress.org/sk.shaikat)  
 **Donate Link:** http://tareq.co/donate/  
@@ -693,3 +695,7 @@ Initial version released
 
 ### 2.6.0 ###
 **Important Update** This update is compatible with WooCommerce 3.0. Make sure to backup and read full [changelog](https://docs.wedevs.com/docs/dokan/changelog/) for more details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFaraziF%2Fdokan.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FFaraziF%2Fdokan?ref=badge_large)
